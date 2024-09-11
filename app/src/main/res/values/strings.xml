@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SMS Pusher</string>
+    <string name="app_description">This app forwards received SMS messages to a specified endpoint via HTTP POST requests.</string>
+    <string name="endpoint_url">Endpoint URL</string>
+    <string name="authorization_token">Authorization Token</string>
+    <string name="logs">Logs:</string>
+    <string name="clear_logs">Clear Logs</string>
+    <string name="test_connection">Test Connection</string>
+    <string name="connection_successful">Connection successful!</string>
+    <string name="connection_failed">Connection failed. Please check your endpoint URL and authorization token.</string>
+</resources>
