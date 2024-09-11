@@ -7,7 +7,7 @@ SMS Pusher is an Android application designed to read incoming SMS messages and 
 ## Features
 
 - Reads incoming SMS messages.
-- Forwards SMS data (sender and message body) to a specified endpoint.
+- Forwards SMS data (sender and message body) to a specified endpoint, the server implementation is available here: https://github.com/vitohuang/SMS-Receiver.
 - User-friendly interface for setting the endpoint URL and authorization token.
 - Logs the status of sent messages and any errors encountered.
 
